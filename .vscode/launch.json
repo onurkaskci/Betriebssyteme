@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/onurkasikci/Documents/Informatik/SoSe 25/BS/Übungen/A5/A5",
+      "program": "/Users/onurkasikci/Documents/Informatik/SoSe 25/BS/Übungen/A5/A5/build/Debug/outDebug"
+    }
+  ]
+}
